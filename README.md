@@ -1,7 +1,7 @@
 # Serial-Monitor
 A Serial Monitor based on python. Only command-line.
 
-![preview](screenshot.png)
+![preview](Screenshot.png)
 
 You can see incoming data. On pressing 'i' you are able to write data to an USB Device.\
 I created this small script because arduino-cli has no built-in serial monitor.
