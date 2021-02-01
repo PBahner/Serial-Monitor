@@ -8,7 +8,7 @@ baud = 9600
 ser = serial.Serial(port, baud)
 
 while True:
-    ch = ser.readline()
+    ch = ser.readline().decode('utf-8').strip()
     print(ch)
     if keyboard.is_pressed('i'):  # if key 'i' is pressed
         string = input(">> ")
