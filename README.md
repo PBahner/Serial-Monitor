@@ -19,9 +19,9 @@ pip install pyserial
 ```
 This script is tested on **Linux** and on **Windows** .\
 Note that this script is only working in commandline. Not in IDLE! \
-If yoy use Pycharm you can check **'emulate terminal in output console'** in the Interpreter Settings.
+If you use Pycharm you can check **'emulate terminal in output console'** in the Interpreter Settings.
 ## Launch
-Go to the directory where you cloned this repo.\
+Go to the directory where this files are located.\
 You can start the serial monitor with:
 ```bash
 python3 monitor.py
