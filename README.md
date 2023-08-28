@@ -4,7 +4,7 @@ A Serial Monitor based on python. Only command-line.
 ![preview](Screenshot.png)
 
 You can see incoming data. On pressing 'i' you are able to write data to an USB Device.\
-Press 'q' if you wont to quit! Otherwise it will not stop.
+Press 'q' if you want to quit! Otherwise it will not stop.
 
 I created this small script because arduino-cli has no built-in serial monitor.
 
