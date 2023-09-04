@@ -12,7 +12,6 @@ This tool, fills this void by providing a convenient and platform-independent so
 
 ![preview](Screenshot.png)
 
-
 ## Getting Started <a name = "getting_started" ></a>
 
 ### Prerequisites
